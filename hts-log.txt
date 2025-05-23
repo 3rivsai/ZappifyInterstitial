@@ -1,0 +1,21 @@
+HTTrack3.49-2 launched on Fri, 23 May 2025 13:12:39 at https://www.myzappify.com/g2/en/index.html?loader=1&Affid=21969&s1=&s2=&s3=&s4=7302&s5=492a82c78a7e47eaad11c8d670edcbfd&domain1=www.elprsdnt.com&network_id=69
+(httrack https://www.myzappify.com/g2/en/index.html?loader=1&Affid=21969&s1=&s2=&s3=&s4=7302&s5=492a82c78a7e47eaad11c8d670edcbfd&domain1=www.elprsdnt.com&network_id=69 -O /Users/pauldurko/Desktop/ZappifyInterstitial )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:12:57	Error: 	"Not Found" (404) at link https://www.myzappify.com/g2/en/assets/image/584ea331-0cd2-4c48-85d9-737f9dddfa0b/6057ffee320ed30dfcfb719a/c8fa7189-e203-40e7-a4da-035746e2c40b/helvetica.ttf (from https://www.myzappify.com/g2/en/index.html?loader=1&Affid=21969&s1=&s2=&s3=&s4=7302&s5=492a82c78a7e47eaad11c8d670edcbfd&domain1=www.elprsdnt.com&network_id=69)
+13:12:57	Error: 	"Not Found" (404) at link https://www.myzappify.com/g2/en/assets/image/584ea331-0cd2-4c48-85d9-737f9dddfa0b/62aa95be1e6f07045c9f650e/e0743aac-a6ac-49dc-ad05-4ef634fa417c/helvetica-bold.otf (from https://www.myzappify.com/g2/en/index.html?loader=1&Affid=21969&s1=&s2=&s3=&s4=7302&s5=492a82c78a7e47eaad11c8d670edcbfd&domain1=www.elprsdnt.com&network_id=69)
+13:12:57	Error: 	"Not Found" (404) at link https://www.myzappify.com/g2/en/assets/image/584ea331-0cd2-4c48-85d9-737f9dddfa0b/62aa95be1e6f07045c9f650e/67893d60-bd93-435f-a706-3c606d46070f/helvetica.ttf (from https://www.myzappify.com/g2/en/index.html?loader=1&Affid=21969&s1=&s2=&s3=&s4=7302&s5=492a82c78a7e47eaad11c8d670edcbfd&domain1=www.elprsdnt.com&network_id=69)
+13:13:30	Error: 	"Not Found" (404) at link https://www.myzappify.com/g2/en/assets/css/undefined (from https://www.myzappify.com/g2/en/assets/css/index.css?v=1725526320636)
+13:13:30	Error: 	"Not Found" (404) at link https://www.myzappify.com/g2/en/assets/image/584ea331-0cd2-4c48-85d9-737f9dddfa0b/65290a6fd60860148c888480/17701661-df1b-4807-9856-231ec327d7dc/avenirnextltpro-regular.otf (from https://www.myzappify.com/g2/en/order.html)
+13:13:30	Error: 	"Not Found" (404) at link https://www.myzappify.com/g2/en/assets/image/584ea331-0cd2-4c48-85d9-737f9dddfa0b/65290a6fd60860148c888480/bff55712-f14a-4139-bb06-7965698d3f00/avenirnextltpro-medium.otf (from https://www.myzappify.com/g2/en/order.html)
+13:13:30	Error: 	"Not Found" (404) at link https://www.myzappify.com/g2/en/assets/image/584ea331-0cd2-4c48-85d9-737f9dddfa0b/65290a6fd60860148c888480/fccbfd58-65ca-4cfa-ba61-d65f4710d1ff/avenirnextltpro-bold.otf (from https://www.myzappify.com/g2/en/order.html)
+13:13:30	Error: 	"Not Found" (404) at link https://www.myzappify.com/g2/en/assets/image/584ea331-0cd2-4c48-85d9-737f9dddfa0b/6057ffee320ed30dfcfb719a/b3304523-8e5d-479f-bdf2-6c1e26f10fe2/avenirnext-demibold-03.ttf (from https://www.myzappify.com/g2/en/order.html)
+13:13:30	Error: 	"Not Found" (404) at link https://www.myzappify.com/g2/en/assets/image/584ea331-0cd2-4c48-85d9-737f9dddfa0b/6057ffee320ed30dfcfb719a/d4813bb2-129c-4e21-ae08-71faa57f1e6b/avenir-next-regular.ttf (from https://www.myzappify.com/g2/en/order.html)
+13:13:30	Error: 	"Not Found" (404) at link https://www.myzappify.com/g2/en/assets/image/584ea331-0cd2-4c48-85d9-737f9dddfa0b/65290a6fd60860148c888480/c4b44828-ccfb-4ec9-bd88-0870d36631db/helvetica.ttf (from https://www.myzappify.com/g2/en/order.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 59 seconds : 59 links scanned, 48 files written (3055816 bytes overall) [1621035 bytes received at 27475 bytes/sec], 2177750 bytes transferred using HTTP compression in 56 files, ratio 31%, 19.6 requests per connection
+(10 errors, 0 warnings, 0 messages)
